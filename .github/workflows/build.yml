@@ -1,5 +1,4 @@
 name: CI
-# 冲冲冲
 
 on:
   push:
